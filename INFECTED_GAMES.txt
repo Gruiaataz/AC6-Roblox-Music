@@ -1,0 +1,22 @@
+NOTE: LISTED GAMES AREN'T CHECKED REGULARLY SO SOME MAY HAVE PATCHED IT
+DO NOT SUBMIT AN ISSUE UNLESS YOUR SURE A GAME HAS 100% PATCHED IT. THANK YOU
+
+YOU CAN ALSO SUBMIT GAMES BUT:
+	You should atleast have 2 or more infected games to submit (this is to avoid spam)
+	Cannot be a game were you need a pass or dev product to trigger the vulnerablity
+	game must ATLEAST have 30 active/players or more
+	you can submit in issues (with an submit tag) or discussions 
+
+
+=== Car Games ===
+116094657599018
+3986508457
+
+=== RolePlay Games ===
+
+=== Military Games === (high risk of bans or patching!)
+
+
+=== Other ===
+
+(ik that the list is empty im lazy okey?)
